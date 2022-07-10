@@ -1,0 +1,42 @@
+[
+  {
+    "abreviatura": "BTC",
+    "nombre": "Bitcoin",
+    "valor": 20932.5128
+  },
+  {
+    "abreviatura": "ADA",
+    "nombre ": "Cardano",
+    "valor": 0.4546
+  },
+  {
+    "abreviatura": "ETH",
+    "nombre": "Ether",
+    "valor": 1180.6023
+  },
+  {
+    "abreviatura": "DOGE",
+    "nombre": "DogeCoin",
+    "valor": 0.0677
+  },
+  {
+    "abreviatura": "DOT",
+    "nombre": "Polkadot",
+    "valor": 6.8599
+  },
+  {
+    "abreviatura": "XLM",
+    "nombre": "Stellar",
+    "valor": 0.1104
+  },
+  {
+    "abreviatura": "LTC",
+    "nombre": "Litecoin",
+    "valor": 50.1464
+  },
+  {
+    "abreviatura": "CELO",
+    "nombre": "Celo",
+    "valor": 0.9092
+  }
+]
