@@ -1,0 +1,27 @@
+[
+    {
+        "title":"Python",
+        "details": "Facil de aprender",
+        "year": "1991"
+    },
+    {
+        "title":"Kotlin",
+        "details": "Fuertemente tipado",
+        "year": "2011"
+    },
+    {
+        "title":"Java",
+        "details": "De los mas usados",
+        "year": "1993"
+    },
+    {
+        "title":"Go",
+        "details": "Para backend",
+        "year": "2010"
+    },
+    {
+        "title":"Fortran",
+        "details": "De los mas antiguos",
+        "year": "1967"
+    }
+]
