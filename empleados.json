@@ -1,32 +1,32 @@
 [
     {
-        "nombre":"Ana",
-        "edad": 34,
-        "sueldo": 2300,
-        "antiguedad": 7
+        "name":"Ana",
+        "age": 34,
+        "salary": 2300,
+        "length_of_service": 7
     },
     {
-        "nombre":"Jose",
-        "edad": 26,
-        "sueldo": 1500,
-        "antiguedad": 4
+        "name":"Jose",
+        "age": 26,
+        "salary": 1500,
+        "length_of_service": 4
     },
     {
-        "nombre":"Luis",
-        "edad": 41,
-        "sueldo": 1100,
-        "antiguedad": 5
+        "name":"Luis",
+        "age": 41,
+        "salary": 1100,
+        "length_of_service": 5
     },
     {
-        "nombre":"Carmen",
-        "edad": 29,
-        "sueldo": 1300,
-        "antiguedad": 2
+        "name":"Carmen",
+        "age": 29,
+        "salary": 1300,
+        "length_of_service": 2
     },
     {
-        "nombre":"Jaime",
-        "edad": 39,
-        "sueldo": 1600,
-        "antiguedad": 8
+        "name":"Jaime",
+        "age": 39,
+        "salary": 1600,
+        "length_of_service": 8
     }
 ]
